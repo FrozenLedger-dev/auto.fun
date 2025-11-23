@@ -58,7 +58,7 @@ This monorepo contains the following packages:
 
 1.  **Clone the Repository**
     ```bash
-    git clone <your-repo-url>
+    git clone <your-repo-url> autofun-monorepo
     cd autofun-monorepo
     ```
 
